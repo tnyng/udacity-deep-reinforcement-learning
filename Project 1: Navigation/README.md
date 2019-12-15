@@ -1,4 +1,4 @@
-### Project 1: Navigation
+# Project 1: Navigation
 
 In this project,  you will train an agent to navigate (and collect bananas!) in a large, square world.  
 
@@ -15,7 +15,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 --------
 
-#### Getting Started
+## Getting Started
 
 1. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
@@ -29,7 +29,7 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 2. Place the file in the `Project 1_Navigation/` folder, and unzip (or decompress) the file. 
 
-#### Instructions
+## Instructions
 
 1. At first, you need to install some required dependencies to run the code: 
 - Create (and activate) a new environment with Python 3.6.
