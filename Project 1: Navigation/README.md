@@ -71,7 +71,6 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 - Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
-![Kernel][image2]
 
 2. Open the `Navigation_Banana.ipynb` and follow the instructions to train and watch the agent.
 
