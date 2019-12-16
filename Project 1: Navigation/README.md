@@ -15,8 +15,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 --------
 Here you can see how the agent acts randomly (left) and how it collects bananas after being trained (right):
-[Random](https://i.imgur.com/C2AJrWn.gif)
-[Trained](https://i.imgur.com/eqNQGze.gif)
+![Random](https://github.com/tnyng/udacity-deep-reinforcement-learning/blob/master/Project%201:%20Navigation/random.gif)
+![Trained](https://github.com/tnyng/udacity-deep-reinforcement-learning/blob/master/Project%201:%20Navigation/trained.gif)
 
 ## Getting Started
 
