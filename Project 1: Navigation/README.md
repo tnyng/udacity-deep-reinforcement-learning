@@ -15,8 +15,8 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 --------
 Here you can see how the agent acts randomly (left) and how it collects bananas after being trained (right):
-[Random](https://i.imgur.com/C2AJrWn.gifv)
-[Trained](https://i.imgur.com/eqNQGze.gifv)
+[Random](https://i.imgur.com/C2AJrWn.gif)
+[Trained](https://i.imgur.com/eqNQGze.gif)
 
 ## Getting Started
 
