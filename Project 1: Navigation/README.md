@@ -14,8 +14,12 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 The task is episodic, and in order to solve the environment, your agent must get an average score of +13 over 100 consecutive episodes.
 
 --------
-Here you can see how the agent acts randomly (left) and how it collects bananas after being trained (right):
+Here you can see how the agent acts randomly:
+
 ![Random](https://github.com/tnyng/udacity-deep-reinforcement-learning/blob/master/Project%201:%20Navigation/random.gif)
+
+ and how it collects bananas after being trained
+ 
 ![Trained](https://github.com/tnyng/udacity-deep-reinforcement-learning/blob/master/Project%201:%20Navigation/trained.gif)
 
 ## Getting Started
