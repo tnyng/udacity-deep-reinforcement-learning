@@ -1,4 +1,4 @@
-## Report Project 1. Navigation
+## Report for Project 1. Navigation
 
 #### Introduction
 In this project, the Deep Q-learning algorithm, which belongs to the value-based methods in deep reinforcement learning was applied to solve a specific environment using Unity Machine Learning Agents, which provide convenient environments for training intelligent agents. In this environment, an agent was trained to navigate to collect bananas in a squared world. Two kinds of color, i.e., blue and yellow, of bananas are demonstrated. The agent would be rewarded with -1 if it collected a blue banana, and would be rewarded with 1 if it collected a yellow banana. Thus, it is expected that the agent should try to collect yellow bananas and to avoid blue bananas while acting. In particular, the agent has four available actions, which are moving forward, moving backward, turning left and turning right.
