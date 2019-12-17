@@ -33,9 +33,11 @@ The hyperparameters for training the agent are listed as followed:
 - Multiplicative factor (per episode) for decreasing epsilon (eps_decay): 0.995
 
 The environment was solved in 413 episodes, which means that the average score exceeded 13 after 413 episodes. The trend of the scores in the training process is plotted as:
+
 ![Result](https://github.com/tnyng/udacity-deep-reinforcement-learning/blob/master/Project%201:%20Navigation/pics/result.jpg)
 
 And the actions the agent take with trained weights can be viewed as:
+
 ![Trained](https://github.com/tnyng/udacity-deep-reinforcement-learning/blob/master/Project%201:%20Navigation/pics/trained.gif)
 
 #### Ideas of Future Work
